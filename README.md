@@ -1,5 +1,5 @@
 # Aula_01_Git_DS34
-Primeira aula de Git no curso de Desenvolvimento de software da Escola Técnica de Eletrônica Francisco Moreira da Costa. 
+Primeira aula de Git no curso de Desenvolvimento de software (Linguagem da Programação) da Escola Técnica de Eletrônica Francisco Moreira da Costa. 
 Ano-2022.
 
 
